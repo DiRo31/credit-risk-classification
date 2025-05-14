@@ -4,7 +4,7 @@ Module 20 Challenge
 
 Hello!
 
-This challenge was based on: https://bootcampspot.instructure.com/courses/6909/assignments/92711
+This challenge was based on: https://bootcampspot.instructure.com/courses/6909/assignments/92711 The data used can be found in the link and in the Resource folder. 
 
 The purpose was to determine loan risk using training and testing sets, logistical regression model, and sharing a final credit analysis. 
 
